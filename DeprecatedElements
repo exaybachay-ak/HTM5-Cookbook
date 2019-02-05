@@ -1,0 +1,14 @@
+
+Removed Element	/ Use Instead
+<acronym>	<abbr>
+<applet>	<object>
+<basefont>	CSS
+<big>	CSS
+<center>	CSS
+<dir>	<ul>
+<font>	CSS
+<frame>	 
+<frameset>	 
+<noframes>	 
+<strike>	CSS, <s>, or <del>
+<tt>	CSS
